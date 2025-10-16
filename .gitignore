@@ -1,1 +1,2 @@
-.class
+.gitignore generated: ignore compiled Java class files
+*.classgit rm --cached -r -- '*.class'
